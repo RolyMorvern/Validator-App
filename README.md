@@ -1,71 +1,29 @@
-# Getting Started with Create React App
+# Validator App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository houses a web application built using React.js, CSS, HTML, and jQuery. The Validator App provides two distinct features:
 
-## Available Scripts
+### Right Angle Triangle Validator
+The Right Angle Triangle Validator is designed to quickly assess whether a given set of three numbers forms a right angle triangle. It's a handy tool for geometric calculations.
 
-In the project directory, you can run:
+### Telephone Validator
+The Telephone Validator feature validates telephone numbers, ensuring they meet specific format requirements. This functionality is crucial for data validation in various applications.
 
-### `npm start`
+**How to Use:**
+- Access the app via Vercel: [Validator App](https://validator-app-rolys-projects.vercel.app/)
+- Explore the intuitive interface to validate right angle triangles and telephone numbers efficiently.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Technologies Used:**
+- React.js: Powering the interactive user interface and dynamic components.
+- CSS: Styling elements for an appealing and user-friendly design.
+- HTML: Structuring the web content and layout.
+- jQuery: Enhancing interactivity and responsiveness within the app.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**Usage Instructions:**
+1. Input the required data for the right angle triangle or telephone number.
+2. Click the corresponding validation button to initiate the validation process.
+3. Receive instant feedback on the validity of the input data.
 
-### `npm test`
+**Deployment:**
+The app is deployed and accessible via [Vercel](https://validator-app-rolys-projects.vercel.app/).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Validator-App
+Feel free to explore the source code, contribute to the project, or use the app for your specific validation needs.
