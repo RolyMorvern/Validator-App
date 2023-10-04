@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Raleway:wght@400;700&family=Poppins:wght@400;700&display=swap');
+body {
+	background-color: #16092A;
+	color: white;
+	margin: 0;
+}
+h1, h2, h3, h4 {
+	font-family: "Raleway", sans-serif;
+}
+p {
+	font-family: "Merriweather", sans-serif;
+}
+a {
+	font-family: "Poppins", sans-serif;
+	color: white;
+	text-decoration: none;
+}
+.container {
+	padding-left: 100px;
+	padding-top: 2.25em;
+}
+@media (max-width: 500px) {
+	.container {
+		padding-left: 10px;
+	}
+}
